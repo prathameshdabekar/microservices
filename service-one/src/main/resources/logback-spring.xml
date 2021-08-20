@@ -23,7 +23,7 @@
 		    <!-- encoder is required -->
 		    <encoder class="net.logstash.logback.encoder.LogstashEncoder">
 	            <includeCallerInfo>true</includeCallerInfo>
-	            <customFields>{"appname":"service-one","version":"1.0"}</customFields>
+	            <customFields>{"appname":"service-two","version":"5.0"}</customFields>
 	        </encoder>
 		</appender>
 	</springProfile>

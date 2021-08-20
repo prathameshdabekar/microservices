@@ -4,7 +4,7 @@ LABEL author="Vijayendra Mudigal"
 MAINTAINER vijayendrap@gmail.com
 
 # environment
-EXPOSE 8082
+EXPOSE 8084
 
 # executable ADD @project.artifactId@-@project.version@.jar app.jar
 ADD service-one.jar app.jar

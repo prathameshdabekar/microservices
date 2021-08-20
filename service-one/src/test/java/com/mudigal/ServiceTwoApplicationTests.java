@@ -7,7 +7,7 @@
 //
 //@RunWith(SpringRunner.class)
 //@SpringBootTest
-//public class ServiceOneApplicationTests {
+//public class ServiceTwoApplicationTests {
 //
 //	@Test
 //	public void contextLoads() {
